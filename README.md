@@ -1,4 +1,4 @@
-# translator-tester-assignment# Implementation of simple translator 
+# Implementation of simple translator 
  
 In this assignment, you should use Java or JavaScript to implement and test a simple translator that allows to translate:
 - from polish to english 
